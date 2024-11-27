@@ -1,5 +1,6 @@
 variables:
   PORT: '3000'
+  NODE_ENV: 'stage'
 
 secrets:
   SECRET_01: PARTE-DEFAULT-SECRET_01
